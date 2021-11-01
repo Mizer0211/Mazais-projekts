@@ -7,6 +7,6 @@
 ## Galvenās funkcijas
 	- Ievadīt laukuma ciparu\ vietu kūru jūs izvēleties lai uzlikt savu simbolu (pirmajam un otrajam spēlētājam).
 	- Programma apstrāda ievades datus un liek krustiņu\nulli uz izvelēto vietu.
-        - Programma izvade uzvarētaju vai neizšķirtu spēli
+    - Programma izvade uzvarētaju vai neizšķirtu spēli
 ## Izmantotās tehnoloģijas
 	- C++
